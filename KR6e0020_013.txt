@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:10.831607
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:21
 #+TITLE: 華嚴經疏注
 #+PROPERTY: CBETA_ID X07n0234
 #+PROPERTY: ID KR6e0020
