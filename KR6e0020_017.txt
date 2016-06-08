@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:10.977626
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:21
 #+TITLE: 華嚴經疏注
 #+PROPERTY: CBETA_ID X07n0234
 #+PROPERTY: ID KR6e0020
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 07, No. 234
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0020_X_017-0732c> 
 #+PROPERTY: JUAN 17
-
- 大方廣佛華嚴經疏卷第十七(入第九卷經第四紙)¶
+大方廣佛華嚴經疏卷第十七(入第九卷經第四紙)¶
 清涼山沙門　澄觀　述¶
 晉水沙門　(淨源)　錄疏注經¶
 
@@ -21,7 +20,7 @@
 
 【皆不牒中。海為所繞。故云南也。第三海去。但言右¶
 旋。不云南者。十海如環。繞於中海。故不正南也。如¶
-以十疊繞於一盤。方所可見。又第二已去。或無蓮¶
+以十疊繞於一盤。方所可見。又第二巳去。或無蓮¶
 華者。前總釋種中云。或有依蓮華住。或有依海。故¶
 或無也。
 △二明能依之海二。初明海華剎種。】¶
